@@ -9,7 +9,7 @@ Analyze sales, customer segments, product categories, regions and sales channels
 ## Tech Stack
 - SQL
 - Python (Pandas)
-- Power BI / BI dashboard concepts
+- - BI Dashboard / Data Visualization
 - Generative AI for analysis assistance
 - GitHub
 
@@ -55,3 +55,34 @@ AI_Ecommerce_Business_Intelligence/
 ├── business-insights/
 └── screenshots/
 ```
+## Dashboard Preview
+
+![Executive Dashboard](executive_dashboard_preview.png)
+
+## How Generative AI Was Used
+
+Generative AI was used as an analytical copilot throughout the project.
+
+- Assisted with data profiling and quality checks
+- Generated and refined SQL analysis queries
+- Assisted with Python/Pandas exploratory analysis
+- Helped identify trends, anomalies and business opportunities
+- Assisted in KPI and dashboard design
+- Converted analytical findings into business recommendations
+- Final calculations and insights were validated before reporting
+
+AI was used to accelerate analytical work while human validation was applied to ensure accuracy and business relevance.
+
+## Business Value
+
+This project demonstrates an AI-first analytics workflow that transforms raw e-commerce transaction data into actionable business intelligence.
+
+The workflow is designed for Data Analyst, Business Analyst, BI Analyst, Marketing/Growth Analyst and Product Analyst use cases.
+
+## Future Enhancements
+
+- Build an interactive Power BI dashboard
+- Add customer retention and churn prediction
+- Add RFM customer segmentation
+- Add automated AI insight generation
+- Add real-time analytics pipeline
